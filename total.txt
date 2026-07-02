@@ -1,0 +1,5 @@
+linux_score : 80 c_score : 90 total_score : 170
+linux_score : 80 c_score : 90 total_score : 170
+linux_score:80 c_score:90 total_score:170
+linux_score:80 c_score:90 total_score:170
+linux_score:80 c_score:901 total_score:981
